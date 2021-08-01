@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Submit Sucssesfull </title> </head>
+<title> Submit sucssesfull </title> </head>
 <h1 Align="center" style="font-size:38px;margin-top:35px;"> <b> <i>
 Submit Successful 
 </h1> </b> </l>
